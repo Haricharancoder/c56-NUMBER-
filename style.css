@@ -1,0 +1,23 @@
+body {
+
+    background-color: firebrick;
+
+    text-align: center;
+
+
+}
+
+.image-section {
+
+    margin-right: 25px;
+
+    margin-left: 25px;
+
+
+}
+
+img {
+
+
+    width: 300px;
+}
